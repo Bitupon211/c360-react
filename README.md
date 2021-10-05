@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# POC for C360 Design System's Component in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
